@@ -1,0 +1,7 @@
+Echo "#Bdd >> Rearme.md
+Hit Unit 
+Git add Rearme.md
+Git commmit -m "fist commit"
+Git Brant -m makm
+Git remote add origin https://github.com/Fregh2/Bdd.git
+Git Push - origin main
